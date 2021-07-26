@@ -1,2 +1,3 @@
 node_modules/
+#Ignora todo producto de la aplicación
 db/
